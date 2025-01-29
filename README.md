@@ -7,3 +7,5 @@ the desired complexity and the number of practice questions or complete practice
 MathGPT has been tested extensively using specific questions from various topics and areas as per elementary school curriculum and also as well on complete test papers. After analyzing the results obtained 
 using MathGPT, it is observed that by employing the technique proposed in this project it is possible to exploit the mathematics capabilities of the LLMs and to also overcome its limitations to create an 
 innovative and useful application for students all around the globe.
+
+https://gvrsf.ca/2024-award-winners/
